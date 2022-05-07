@@ -6,3 +6,7 @@ A book consists of chapters, chapters consist of sections and sections consist o
 Construct a tree and print the nodes. Find the time and space requirements of your method.
 
 do the above in c++.
+
+find the program in tree.cpp.
+
+find its output in output-file.
